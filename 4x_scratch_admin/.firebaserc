@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "scratch-ct-admin-bf091",
+    "scratch-ct-admin": "scratch-ct-admin-bf091"
+  },
+  "targets": {},
+  "etags": {}
+}
